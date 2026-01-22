@@ -1,6 +1,6 @@
 # Simple-expense-splitting-system
-* Name : Ohale Great
-* Matric no : 24/14112
+* Name : Obiajulu Egbuche
+* Matric no : 24/13764
 * Department : Cyber security
 
 # 1. Requirement Analysis
